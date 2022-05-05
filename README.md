@@ -15,7 +15,7 @@ A quiz app to learn the basics of Apple Human Interface Guidelines with Academy 
 
 ## 🎥 Demo Video
 
-<img width="390" alt="video" src="https://github.com/hanyeonhee/HIGQuizApp/blob/11f6f9548af0618564b9a2606f2c2c9f7613efef/small-min.gif">
+<img width="390" alt="video" src="https://github.com/hanyeonhee/HIGTestApp/blob/90b167b297fd7ce7cd08c2762dc7b6c72be5b1e1/small-min.gif">
 
 
 ## :fireworks: Screenshots
