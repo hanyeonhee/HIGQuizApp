@@ -25,6 +25,6 @@ A quiz app to learn the basics of Apple Human Interface Guidelines with Academy 
 ## :sparkles: Skills & Tech Stack
 swiftUI
 
-## :lock_with_ink_pen: License
+## 📑 Keynote
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Keynote](https://www.icloud.com/keynote/0eeVqgOrR20RH0tdF2faAq1pg#Jessica)
