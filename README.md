@@ -23,7 +23,7 @@ A quiz app to learn the basics of Apple Human Interface Guidelines with Academy 
 
 
 ## :sparkles: Skills & Tech Stack
-swiftUI
+[swiftUI](https://developer.apple.com/xcode/swiftui/)
 
 ## 📑 Keynote
 
