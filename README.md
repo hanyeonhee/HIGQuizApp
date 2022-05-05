@@ -25,6 +25,6 @@ A quiz app to learn the basics of Apple Human Interface Guidelines with Academy 
 ## :sparkles: Skills & Tech Stack
 swiftUI
 
-## 🖥: Keynote
+## 📑 Keynote
 
-[Keynore](https://www.icloud.com/keynote/0eeVqgOrR20RH0tdF2faAq1pg#Jessica)
+[Keynote](https://www.icloud.com/keynote/0eeVqgOrR20RH0tdF2faAq1pg#Jessica)
