@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/33242880/166614949-d5bb7f93-4e95-4888-a221-6e318be1dce4.jpg)
 
 
-# HIG Quiz
+# HIG Quizs
 A quiz app to learn the basics of Apple Human Interface Guidelines with Academy Learners
 
 
